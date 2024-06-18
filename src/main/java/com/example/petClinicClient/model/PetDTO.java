@@ -1,4 +1,4 @@
-package com.example.restTempPetClinic.model;
+package com.example.petClinicClient.model;
 
 import lombok.Builder;
 import lombok.Data;

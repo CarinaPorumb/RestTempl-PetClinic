@@ -1,7 +1,7 @@
-package com.example.restTempPetClinic.client;
+package com.example.petClinicClient.client;
 
-import com.example.restTempPetClinic.model.PetDTO;
-import com.example.restTempPetClinic.model.PetType;
+import com.example.petClinicClient.model.PetDTO;
+import com.example.petClinicClient.model.PetType;
 import org.springframework.data.domain.Page;
 
 import java.util.UUID;
